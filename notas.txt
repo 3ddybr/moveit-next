@@ -1,0 +1,8 @@
+respansividade
+
+pwa
+
+trocar cores ou tema 
+
+video servelles com reactjs e nextjs na vercel
+
